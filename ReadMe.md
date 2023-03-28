@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking to collaborate on problem solving <br>I'm studying Bachelors In Software Engineering<br>I'm Currently Interested In Web Applications
+I'm looking to collaborate on problem solving <br>I'm studying Bachelors In Software Engineering<br>I'm currently Interested In Web Applications
 
 
 ## 🌐 Socials:
