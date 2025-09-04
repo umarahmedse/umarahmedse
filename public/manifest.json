@@ -1,0 +1,21 @@
+{
+  "name": "Umar Ahmed - Full-Stack Developer Portfolio",
+  "short_name": "Umar Ahmed",
+  "description": "Portfolio of Umar Ahmed - Software Engineering Student & Full-Stack Developer specializing in MERN stack development",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/young-female-software-engineer-headshot.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["portfolio", "developer", "technology"],
+  "lang": "en",
+  "scope": "/"
+}
