@@ -191,7 +191,7 @@ export const HeroSection = memo(function HeroSection({
             >
               <div className="w-64 h-64 sm:w-80 sm:h-80 lg:w-72 lg:h-72 xl:w-80 xl:h-80 rounded-full overflow-hidden shadow-2xl ring-4 ring-accent/20 bg-gradient-to-br from-primary/10 to-accent/10">
                 <OptimizedImage
-                  src="/image1.png"
+                  src="/umar.jpg"
                   alt="Umar Ahmed - Full-Stack Developer"
                   className="w-full h-full object-cover"
                   width={320}
