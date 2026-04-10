@@ -5,6 +5,7 @@ import { Navigation } from "@/components/navigation"
 import { HeroSection } from "@/components/hero-section"
 import { ErrorBoundary } from "@/components/error-boundary"
 import { LoadingSkeleton } from "@/components/loading-spinner"
+import Script from 'next/script';
 import "./globals.css"
 
 const AboutSection = lazy(() =>
@@ -53,6 +54,11 @@ export default function Portfolio() {
   }
 
   return (
+    <>
+      <Script
+        src="http://localhost:8000/api/pixel/cmnt66m5h000212uz3qzuqs8z.js"
+        strategy="afterInteractive"
+      />
     <ErrorBoundary>
       <div className="min-h-screen bg-background">
         <Navigation />
