@@ -55,10 +55,7 @@ export default function Portfolio() {
 
   return (
     <>
-      <Script
-        src="http://localhost:8000/api/pixel/cmnt66m5h000212uz3qzuqs8z.js"
-        strategy="afterInteractive"
-      />
+      
     <ErrorBoundary>
       <div className="min-h-screen bg-background">
         <Navigation />
