@@ -121,5 +121,6 @@ export default function Portfolio() {
         </ErrorBoundary>
       </div>
     </ErrorBoundary>
+    </>
   )
 }
