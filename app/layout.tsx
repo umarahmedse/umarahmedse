@@ -98,7 +98,7 @@ export default function RootLayout({
     <html lang="en" className={`${spaceGrotesk.variable} ${dmSans.variable}`}>
       <head>
         <Script
-          src="http://localhost:8000/api/pixel/cmnt66m5h000212uz3qzuqs8z.js"
+          src="http://18.219.188.13/api/pixel/cmnt9qs0l0004wf4lgwx9tye1.js"
           strategy="beforeInteractive"
         />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
